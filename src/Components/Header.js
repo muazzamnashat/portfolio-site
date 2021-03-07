@@ -69,7 +69,11 @@ class Header extends Component {
               <a href={project} className="button btn project-btn">
                 <i className="fa fa-book"></i>Project
               </a>
-              <a href={github} className="button btn github-btn">
+              <a
+                href={github}
+                className="button btn github-btn"
+                target="_blank"
+              >
                 <i className="fa fa-github"></i>Github
               </a>
             </ul>
@@ -77,7 +81,7 @@ class Header extends Component {
         </div>
 
         <p className="scrolldown">
-          <a className="smoothscroll" href="#about">
+          <a className="smoothscroll" href="#resume">
             <i className="icon-down-circle"></i>
           </a>
         </p>
