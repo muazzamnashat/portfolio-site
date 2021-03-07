@@ -1,0 +1,104 @@
+{
+  "main": {
+    "name": "Muazzam Nashat",
+    "description": "A Data Analyst turned Software Developer",
+    "image": "image_nashat.jpg",
+    "bio": "During my grad school at Central Michigan University, I took some data mining classes, and I learned R and SAS programming for data science! Although I had some technical knowledge working as a data analyst, I did not know all the wonderful things coding can do for us. I realized that rather than building statistical models, I wanted to create products people can interact with every day. That is when I found out about Software Engineering! I want to bring ideas to reality, and what could be a better way than coding! I am excited to leverage my analytical and coding skills to build products that would provide value to companies and their customers! I am currently enjoying JavaScript, Ruby on Rails, and React.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "muazzamhc.nashat@gmail.com",
+    "phone": "646-897-1746",
+    "github": "",
+    "project": "",
+    "address": {
+      "street": "(Your Street)",
+      "city": "(Your City)",
+      "state": "(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/MuazzamNashat",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/muazzamnashat/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/muazzamnashat",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skills": [
+      {
+        "name": "Python",
+        "level": "60%"
+      },
+      {
+        "name": "VueJs",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "PHP",
+        "level": "80%"
+      },
+      {
+        "name": "Swift",
+        "level": "50%"
+      },
+      {
+        "name": "JAVA",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  }
+}
