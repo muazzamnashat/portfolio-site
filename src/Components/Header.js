@@ -47,6 +47,13 @@ class Header extends Component {
                 Resume
               </a>
             </li>
+
+            <li>
+              <a className='smoothscroll' href='#resume'>
+                Skills
+              </a>
+            </li>
+
             <li>
               <a className='smoothscroll' href='#portfolio'>
                 Projects
